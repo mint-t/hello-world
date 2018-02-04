@@ -1,3 +1,3 @@
 # hello-world
 guide repository
-Getting started with github
+Getting started with github, learning the things
